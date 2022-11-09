@@ -61,7 +61,7 @@ Please install the following packages to execute all the codes.
 - **tensorflow**==2.7.0
 - **transformers**==4.18.0              
 
-#### *Note*
+#### Note
 The entire notebook was executed in Google Colaboratory having an activated GPU kernel. In order to activate GPU support we need to follow the following steps -
 - Go to "Edit" menu and click on "Notebook settings" option.
 - Select "GPU" from the "Hardware accelerator" dropdown menu.
