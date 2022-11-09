@@ -65,7 +65,7 @@ Please install the following packages to execute all the codes.
 The entire notebook was executed in Google Colaboratory having an activated GPU kernel. In order to activate GPU support we need to follow the following steps -
 - Go to "Edit" menu and click on "Notebook settings" option.
 - Select "GPU" from the "Hardware accelerator" dropdown menu.
-- click on "save" button to save the changes.
+- click on "Save" button to save the changes.
 - Restart the kernel and run the code.
 
 #### - By Arunava Kumar Chakraborty
