@@ -31,6 +31,21 @@ Here the description of the database has been presented.
                           
                               vii. Sentiment Prediction on user-end reviews.
               
-                  
+### Required Packages
+Please install the following packages to execute all the codes.
+
+- **pandas**==1.3.4
+- **numpy**==1.20.3
+- **tweet-preprocessor**==0.5.0
+- **seaborn**==0.11.2
+- **matplotlib**==3.4.3
+- **networkx**==2.6.3
+- **wordcloud**==1.8.1
+- **nltk**==3.6.5
+- **scikit-learn**==1.1.1
+- **tqdm**==4.62.3
+- **keras**==2.7.0
+- **tensorflow**==2.7.0
+- **transformers**==4.18.0              
                     
 #### - By Arunava Kumar Chakraborty
