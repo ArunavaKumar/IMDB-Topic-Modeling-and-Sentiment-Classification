@@ -3,7 +3,7 @@
 
 ### Introduction:
 
-In this project, I presented an experimental approach to discover the abstract topics using text mining and perform sentiment classification using deep learning framework on IMDB Movie Review dataset. I used the LDA (Latent Dirichlet Allocation) topic modeling to classify movie reviews to a particular topic. Furthermore, I used pretrained BERT (Bidirectional Encoder Representations from Transformers) to perform binary-classification on IMDB reviews based on their sentiment polarities.
+In this project, I presented an experimental approach to discover abstract topics using text mining and perform sentiment classification using a deep learning-based framework on the IMDB Movie Review dataset. I used the **LDA** (Latent Dirichlet Allocation) topic modeling to classify movie reviews to a particular topic. During the experiment, the LDA model extracted 10 topics from the IMDB data and allocate the most relevant topic to each review based on their overall subject. In the next phase, I used the pre-trained **BERT** (Bidirectional Encoder Representations from Transformers) model to perform binary classification on IMDB reviews based on their sentiment polarities. I split the entire dataset into 80:20 ratio for training and validation purposes. I used batch processing to reduce the computational complexity of the model during the training phase. Finally, the model achieved **91.83%** training accuracy and **89.94%** validation accuracy during sentiment classification.
 
 ### Data Description:
 
