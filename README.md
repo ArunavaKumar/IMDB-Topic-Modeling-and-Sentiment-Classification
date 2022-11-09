@@ -10,7 +10,6 @@ In this project, I presented an experimental approach to discover abstract topic
 Here the description of the database has been presented.
 
 - **review** - IMDB Movie reviews.
-
 - **sentiment** - Sentiment polarity of the reviews (e.g., Positive and Negative).
 
 ### Workflow of the Project:
@@ -61,5 +60,12 @@ Please install the following packages to execute all the codes.
 - **keras**==2.7.0
 - **tensorflow**==2.7.0
 - **transformers**==4.18.0              
-                    
+
+#### *Note*
+The entire notebook was executed in Google Colaboratory having an activated GPU kernel. In order to activate GPU support we need to follow the following steps -
+- Go to "Edit" menu and click on "Notebook settings" option.
+- Select "GPU" from the "Hardware accelerator" dropdown menu.
+- click on "save" button to save the changes.
+- Restart the kernel and run the code.
+
 #### - By Arunava Kumar Chakraborty
