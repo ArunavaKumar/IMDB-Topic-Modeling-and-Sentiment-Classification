@@ -29,7 +29,7 @@ Here the description of the database has been presented.
                  
                           vi. Sentiment Prediction,
                           
-                              vii. Sentiment Prediction on user-end reviews
+                              vii. Sentiment Prediction on user-end reviews.
               
                   
                     
