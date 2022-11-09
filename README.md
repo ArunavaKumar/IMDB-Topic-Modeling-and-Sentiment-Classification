@@ -15,19 +15,35 @@ Here the description of the database has been presented.
 
 ### Workflow of the Project:
 
-    i. Preprocessing of IMDB Reviews,
+    i. Preprocessing of IMDB Reviews
 
-        ii. Popular Token Identification,
+        ii. Popular Token Identification
+            a. Wordcloud Visualization from Positive reviews
+            b. Wordcloud Visualization from Negative reviews
     
-            iii. n-gram Analysis,
+            iii. n-gram Analysis
+                 a. Bigram Analysis
+                 b. Trigram Analysis
             
-                 iv. LDA Topic Modeling,
+                 iv. LDA Topic Modeling
+                     a. Data Preperation
+                     b. Vectorization
+                     c. Model Training
+                     d. Topic Allocation
+                     e. Visualization of Topic Popularity
                  
-                      v. Sentiment Classification,
+                     v. Sentiment Classification
+                        a. Prepare Final Data
+                        b. Generate Encoded Training and Validation Data
+                           - Train-Validation Split
+                        c. Implement BERT Model
+                        d. Train Model
                  
-                          vi. Sentiment Prediction,
-                          
-                              vii. Sentiment Prediction on user-end reviews.
+                        vi. Sentiment Prediction
+                            a. Sentiment Prediction on Validation Data
+                            b. Model Performance Analysis
+                            c. Save Model
+                            d. Sentiment Prediction on User-End Reviews (Sample Data)
               
 ### Required Packages
 Please install the following packages to execute all the codes.
