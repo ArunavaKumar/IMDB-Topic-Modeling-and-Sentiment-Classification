@@ -47,18 +47,18 @@ Here the description of the database has been presented.
 ### Required Packages
 Please install the following packages to execute all the codes.
 
-- **pandas**==1.3.4
-- **numpy**==1.20.3
+- **pandas**==1.3.5
+- **numpy**==1.21.6
 - **tweet-preprocessor**==0.5.0
 - **seaborn**==0.11.2
-- **matplotlib**==3.4.3
+- **matplotlib**==3.2.2
 - **networkx**==2.6.3
-- **wordcloud**==1.8.1
-- **nltk**==3.6.5
-- **scikit-learn**==1.1.1
-- **tqdm**==4.62.3
-- **keras**==2.7.0
-- **tensorflow**==2.7.0
+- **wordcloud**==1.8.2.2
+- **nltk**==3.7
+- **scikit-learn**==1.0.2
+- **tqdm**==4.64.1
+- **keras**==2.9.0
+- **tensorflow**==2.9.2
 - **transformers**==4.18.0              
 
 #### Note
